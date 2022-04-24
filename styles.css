@@ -1,0 +1,14 @@
+.search{
+  position: absolute;
+  left:530px;
+  margin-bottom: 30px;
+}
+h1{
+  color: white;
+  margin-left: 30px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+.col-md-8{
+  margin-top: 80px;
+}
